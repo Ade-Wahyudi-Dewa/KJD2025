@@ -1,0 +1,8 @@
+{
+  "name": "Juragan Digital Class: Master Digital Business",
+  "description": "Sebuah platform pembelajaran interaktif untuk pemula yang ingin menguasai bisnis produk digital, dilengkapi dengan asisten AI canggih untuk riset pasar, pembuatan aset, dan strategi bisnis.",
+  "requestFramePermissions": [
+    "camera",
+    "geolocation"
+  ]
+}
